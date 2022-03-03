@@ -1,5 +1,5 @@
 <template>
-<div>商品列表</div>
+<div>商品</div>
 </template>
 <script>
 import {ref,reactive} from 'vue'
